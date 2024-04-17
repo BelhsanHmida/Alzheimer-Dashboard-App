@@ -22,7 +22,7 @@ Welcome to the Alzheimer's Disease Prediction Dashboard! This dashboard provides
 
 3. **Run the Dashboard:** Launch the Streamlit app locally.
     ```bash
-    streamlit run app.py
+    streamlit run 🏥_about.py
     ```
 
 4. **Explore the Dashboard:** Open your web browser and go to http://localhost:8501 to interact with the Alzheimer's Disease Prediction Dashboard.
@@ -38,7 +38,7 @@ Welcome to the Alzheimer's Disease Prediction Dashboard! This dashboard provides
 
 ## Credits
 - **Data Source:** Alzheimer’s Disease Neuroimaging Initiative (ADNI)
-- **Icons:** Flaticon
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
